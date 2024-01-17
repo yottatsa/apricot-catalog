@@ -1,0 +1,43 @@
+apps/028fe28f/IO.SYS 1.00	ACT Apricot MS-DOS 2.00 BIOS version 1.00 9-Aug-83
+apps/94e86836/IO.SYS 1.0	Apricot Generic MS-DOS 2.11 RAM BIOS Version R1.0 Friday 24th August 1984 Microsoft MS-DOS version 2.11
+apps/b73b95ec/IO.SYS 1.2	Apricot Generic MS-DOS 2.11 RAM BIOS Version: VR1.2 Friday 2nd November 1984
+apps/667c853b/IO.SYS 1.3	Apricot Generic MS-DOS 2.11 RAM BIOS Version: VR1.3 Wednesday 21st November 1984
+apps/023f322d/IO.SYS 1.5	ACT Apricot BIOS VD1.5 10 Jan 1984 ACT Apricot BIOS VR1.5 27-Jan-1984
+apps/91b2c29f/IO.SYS 1.5	Apricot Generic MS-DOS 3.10 RAM BIOS Version R1.5, 11/03/85
+apps/0918b6d1/IO.SYS 1.6	Apricot Generic MS-DOS 2.11 RAM BIOS Version R1.6, 19/06/85
+apps/96f709ec/IO.SYS 1.6	Apricot Generic MS-DOS 3.10 RAM BIOS Version R1.6, 19/06/85
+apps/b817adec/IO.SYS 1.6	Apricot Generic MS-DOS 3.10 RAM BIOS Version R1.6, 19/06/85
+apps/19fd5788/IO.SYS 1.8	Apricot Generic MS-DOS 2.11 RAM BIOS Version R1.8, 15/10/85
+apps/5d0cdd1c/IO.SYS 1.8	Apricot Generic MS-DOS 3.10 RAM BIOS Version R1.8, 15/10/85
+apps/c22b1653/IO.SYS 1.9.0	Apricot Generic MS-DOS 3.20 RAM BIOS Version R1.9.0, 29/04/86
+apps/30b26a58/IO.SYS 2.6	ACT Apricot PC & XI MS-DOS 2.11 RAM BIOS Version R2.6 Tuesday 20th November 1984
+apps/ea8ecd33/IO.SYS 2.6	ACT Apricot PC & XI MS-DOS 3.06 RAM BIOS Version R2.6 Tuesday 20th November 1984
+apps/be34b0ee/IO.SYS 2.6	ACT Apricot PC & XI MS-DOS 3.06 RAM BIOS Version R2.6 Tuesday 20th November 1984 MS-DOS version 3.06
+apps/8a603340/IO.SYS 2.6b	Revision 1.00; 1/10/84; RJW. Y ACT Apricot PC & XI MS-DOS 2.11 RAM BIOS Version Beta 2.6, 15th January 1985
+apps/8b85d85e/IO.SYS 2.7	ACT Apricot PC & XI MS-DOS 3.10 RAM BIOS Low-Loading Non-Graphics Server Version Release Version 2.7, 21st February 1985
+apps/9056ddea/IO.SYS 2.7	Revision 1.00; 1/10/84; RJW. ACT Apricot PC & XI MS-DOS 2.11 RAM BIOS Release Version 2.7, 21st February 1985 Microsoft BASIC Version 5.28 [MS-DOS Version]
+apps/6d8f630a/IO.SYS 2.7	Revision 1.00; 1/10/84; RJW. ACT Apricot PC & XI MS-DOS 2.11 RAM BIOS Version D 2.7, 12th February 1985 Microsoft BASIC Version 5.28 [MS-DOS Version]
+apps/5f0f1609/IO.SYS 2.7	Revision 1.00; 1/10/84; RJW. ACT Apricot PC & XI MS-DOS 3.10 RAM BIOS Release Version 2.7, 21st February 1985
+apps/2e86aaff/IO.SYS 2.7	Revision 1.00; 1/10/84; RJW. Y ACT Apricot PC & XI MS-DOS 2.11 RAM BIOS Release Version 2.7, 21st February 1985
+apps/834a1c82/IO.SYS 3.1.1	Apricot PC & XI MS-DOS 3.10 RAM BIOS Low-Loading Non-Graphics Server Version Release Version 3.1.1, 23rd October 1985
+apps/034f34e1/IO.SYS 3.1.1	Apricot PC & XI MS-DOS 3.10 RAM BIOS Release Version 3.1.1, 23rd October 1985
+apps/605ae906/IO.SYS 3.1.2	Apricot PC & XI MSDOS 3.20 RAM BIOS Release Version VR 3.1.2, 2nd May 1986
+apps/9790d8c7/IO.SYS 3.1.2b	Apricot PC & XI MS-DOS 2.11 RAM BIOS Beta Release Version VB 3.1.2, 13th January 1986
+apps/cdeb6991/IO.SYS 3.1	ACT Apricot PC & XI MS-DOS 2.11 RAM BIOS Release Version 3.1, 15th October 1985
+apps/8c633549/IO.SYS 3.1b	ACT Apricot PC & XI MS-DOS 3.10 RAM BIOS Version Beta 3.1, 23rd July 1985
+apps/7cea29ee/IO.SYS 3.1P	ACT Apricot PC & XI MS-DOS 2.11 RAM BIOS Version Beta 3.1P, 26th September 1985
+apps/b8e191fb/IO.SYS 3.1x	ACT Apricot PC & XI MS-DOS 3.10 RAM BIOS Low-Loading Non-Graphics Server Version Version Beta 3.1, 23rd July 1985
+apps/f11896f2/IO.SYS 3.20.3 	Apricot Version Vr 3.20.3 11/12/86
+apps/85101bdd/IO.SYS 3.20.6a	Apricot MS-DOS I/O System Va 3.20.6 12th May 87
+apps/42067df7/IO.SYS 3.20.6	Apricot MS-DOS I/O System Vb 3.20.6 12th Jun 87
+apps/e49aa5f3/IO.SYS 3.30.0	Apricot MS-DOS I/O System Vc 3.30.0 14th Jan 1988
+apps/2c677f85/IO.SYS 3.30.0	Apricot MS-DOS I/O System VR 3.30.0 22nd Feb 1988
+apps/623177bd/IO.SYS 3.30.2	Apricot MS-DOS I/O System VR 3.30.2 2nd Feb 1989
+apps/c8110982/IO.SYS ---	ACT Apricot BIOS VA2.5 Thursday 9th August 1984 ACT Apricot BIOS VB1.5 26-Aug-83 ACT Apricot BIOS VB1.5 2-Dec-83
+apps/038d0819/IO.SYS ---	ACT Apricot BIOS VB1.0 26-Aug-83 ACT Apricot BIOS VA1.1 8-Sep-83
+apps/b462bc4a/IO.SYS ---	ACT Apricot BIOS VB1.0 26-Aug-83 ACT Apricot BIOS VR1.4 11-Nov-83
+apps/02dfa620/IO.SYS ---	ACT Apricot BIOS VE2.0 Friday 9th March 1984 ACT Apricot BIOS VB1.5 26-Aug-83 ACT Apricot BIOS VB1.5 2-Dec-83
+apps/b43646aa/IO.SYS ---	ACT Apricot BIOS VR2.0 Tuesday 20th March 1984 ACT Apricot BIOS VB1.0 26-Aug-83 ACT Apricot BIOS VR1.2 27-Sep-83
+apps/9035d864/IO.SYS ---	ACT Apricot BIOS VR2.3 Monday 16th April 1984 ACT Apricot BIOS VB1.5 26-Aug-83 ACT Apricot BIOS VB1.5 2-Dec-83
+apps/145d96e6/IO.SYS ---	ACT Apricot BIOS VR2.4 Monday 11th June 1984 Apricot BIOS VB1.5 26-Aug-83 ACT Apricot BIOS VB1.5 2-Dec-83
+apps/a6a87ab4/IO.SYS ---	MS DOS Version 4.00 (C)Copyright 1988 Microsoft CorpLicensed Material - Property of Microsoft NUL

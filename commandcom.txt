@@ -1,0 +1,22 @@
+apps/475edcd1/COMMAND.COM 2.02		Command v. 2.02
+apps/56f3f634/COMMAND.COM 2.02		Command v. 2.02
+apps/62023136/COMMAND.COM 2.02sa	Command v. 2.02sa
+apps/c37b2ff2/COMMAND.COM 2.11		Command v. 2.11
+apps/53467e8d/COMMAND.COM 2.11gen	Generic MS-DOS 2.11
+apps/c2a5cecc/COMMAND.COM 2.11gen	Generic MS-DOS 2.11
+apps/3ee13003/COMMAND.COM 2.11sa	Command v. 2.11sa
+apps/7d7a60e8/COMMAND.COM 2.11sb	Command v. 2.11sb
+apps/9aab5a50/COMMAND.COM 2.11sb	Command v. 2.11sb
+apps/8381595a/COMMAND.COM 2.11sc	Command v. 2.11sc
+apps/8f0910f0/COMMAND.COM 2.11sc	Command v. 2.11sc
+apps/b90fa08e/COMMAND.COM 3.00		Command v. 3.00
+apps/49b24486/COMMAND.COM 3.05		Command v. 3.05
+apps/4d7a795b/COMMAND.COM 3.10		Command v 3.10
+apps/d17d9aeb/COMMAND.COM 3.10		Command v 3.10
+apps/fa84c704/COMMAND.COM 3.10		Command v 3.10
+apps/7dcedcd1/COMMAND.COM 3.10		Command Vr. 3.10 6Microsoft MS-DOS Version %1d.%02d
+apps/d954ce84/COMMAND.COM 3.10		Command Vr. 3.10 6Microsoft MS-DOS Version %1d.%02d
+apps/7285f5dc/COMMAND.COM 3.20		Microsoft(R) MS-DOS(R) Version 3.20
+apps/aa85dc7c/COMMAND.COM 3.20		Microsoft(R) MS-DOS(R) Version 3.20
+apps/02f8690c/COMMAND.COM 3.30		Microsoft(R) MS-DOS(R) Version 3.30
+apps/1823e3ca/COMMAND.COM ---		MS-DOS 3.06 Version 2.30 October   18, 1984
